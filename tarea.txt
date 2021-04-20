@@ -1,0 +1,12 @@
+Realizar una aplicación web, en la cual se promocione su curriculum profesional, teniendo en cuenta el diseño propuesto en la imagen que se adjunta.
+
+Para el desarrollo, investigue el funcionamiento de la etiqueta <table>. Este comando HTML le va a permitir hacer la distribución de elementos como párrafos e imágenes tal como lo presenta el modelo.
+
+Incorpore un enlace en la página principal, donde explique con sus propias palabras y a manera de resumen, los aspectos que debe tener en cuenta para incorporar en sus aplicaciones web el SEO, puede consultar el siguiente enlace https://www.40defiebre.com/guia-seo
+
+El trabajo es individual, subir a esta plataforma los códigos en un archivo comprimido.
+
+azul blanco f6f5f5
+azul light d3e0ea
+azul 51c4d3
+azul dark 276678

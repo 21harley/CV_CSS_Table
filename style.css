@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: grid;
+    height: 120vh;
+    background-color: #276678;
+    display: flex;
+    justify-content: center;
+}
+.tabla{
+    width:800px;
+}
+.cabeza{
+    height: 180px;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    background-color: #51c4d3;
+    margin: 0;
+    padding: 0;
+    
+}
+.marco{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.tituloCont{
+    height: 100%;
+    display: grid;
+    place-items: center;
+}
+.imgCont{
+    width: 150px;
+    height: 100%;
+    display: grid;
+    place-items: center;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.tituloSub{
+    width: 100%;
+    border: none;
+    text-align: center;
+    background-color: white;
+}
+tfoot{
+    text-align: center;
+}
+tr{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: white;
+}
+.profileDate,.tableExp,.tableEdu{
+    border: 1px solid #000;
+    font-size: small;
+    margin: 5px;
+    text-align: center;
+}
+.tableExp,.tableEdu{
+    margin: 10px;
+    width: 97%;
+}
+
+.posTableExp,.posTableEdu{
+    display: flex;
+    justify-content: center;
+}
+.posTableEdu{
+   flex-direction: column;
+}
+.seoDes{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+    text-indent: 10px;
+}
+a{
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    height: 50px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    background-color: #51c4d3;
+}
+.tfoot{
+    background: #276678;
+    height: 60px;
+    color: white;
+}
